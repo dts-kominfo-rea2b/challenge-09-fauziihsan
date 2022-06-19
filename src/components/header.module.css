@@ -1,0 +1,17 @@
+.header {
+  padding: 20px;
+  box-shadow: -2px 8px 9px -3px rgba(0, 0, 0, 0.15);
+}
+
+.header__title {
+  margin: 0;
+  font-size: 1.5rem;
+  color: #2d3436;
+  padding-bottom: 8px;
+}
+
+.header__subtitle {
+  margin: 0;
+  color: #2d3436;
+  font-size: 0.9rem;
+}
